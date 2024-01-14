@@ -2,7 +2,7 @@
 
 This repository provides a collection of Jupyter notebooks for artificial intelligence problems.
 
-![Stochastic linear regression with annealed learning rate](sgd_alr.png)
+![Stochastic Gradient Descent](sgd_alr.png)
 
 Fig 1. SGD with annealed learning rate.
 
